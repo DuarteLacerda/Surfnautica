@@ -44,7 +44,7 @@ require('conexao.php')
   ?>
 
   <div class="container-sm ">
-    <div id="carouselExample" class="carousel slide">
+    <div id="carouselExample" class="carousel slide" style="margin-top: 150px;">
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img src="img/05.jpg" class="d-block w-100" alt="...">

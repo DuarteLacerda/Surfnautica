@@ -143,15 +143,15 @@ $result = mysqli_query($conn, $query);
 
           while ($row = $result->fetch_object()) {
             if ($counter >= 4) {
-              break; 
+              break;
             }
           ?>
-            <div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0">
+            <div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0">
               <div class="icon-box" data-aos="fade-up">
                 <div class="icon"><i class='bx bxs-lock-open-alt'></i></div>
                 <h4 class="title"><a href="Tiago_Gomes/diaaberto.php">Dia Aberto</a></h4>
-                <p class="description">Aula com o(a) professor(a) <?php echo $row->nome?> na <?php echo $row->titulo?> às <?php echo $row->horas?></p>
-                <small class="description"><?php echo  $row->data1;?></small>
+                <p class="description">Aula com o(a) professor(a) <?php echo $row->nome ?> na <?php echo $row->titulo ?> às <?php echo $row->horas ?></p>
+                <small class="description"><?php echo  $row->data1; ?></small>
               </div>
             </div>
           <?php
