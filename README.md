@@ -27,7 +27,7 @@ Although the project was imperfect, all the work followed good practices and was
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/surfnautica.git
+git clone https://github.com/DuarteLacerda/Surfnautica.git
 cd surfnautica
 ```
 
