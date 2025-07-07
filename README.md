@@ -1,4 +1,4 @@
-# Surfnautica 🌊
+# 🌊 Surfnautica 
 
 **Mar 2023 – Jun 2023**
 *University group project – 1st year, 2nd semester*
