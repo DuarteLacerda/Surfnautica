@@ -28,10 +28,10 @@ To run this project locally:
 
 ```bash
 git clone https://github.com/DuarteLacerda/Surfnautica.git
-cd surfnautica
+cd Surfnautica
 ```
 
-If the project includes PHP and database functionality, you can run it using a local server environment like XAMPP or MAMP.
+If the project includes PHP and database functionality, you can run it using a local server environment like XAMPP or Laragon.
 
 ## ⚠️ Disclaimer
 
