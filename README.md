@@ -47,4 +47,4 @@ It is **not intended for real-world or commercial use**, and some features may b
 
 ## 📄 License
 
-None – Educational Use Only. Do not use for commercial purposes.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
