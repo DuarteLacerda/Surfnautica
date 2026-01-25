@@ -47,4 +47,4 @@ It is **not intended for real-world or commercial use**, and some features may b
 
 ## 📄 License
 
-No license has been applied. This code is for educational/demo purposes only.
+None – Educational Use Only. Do not use for commercial purposes.
