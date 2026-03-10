@@ -1,7 +1,7 @@
 # 🌊 Surfnautica 
 
 **Mar 2023 – Jun 2023**
-*University group project – 1st year, 2nd semester*
+*University CTesp group project – 1st year, 2nd semester*
 
 Surfnautica was a web development group project created as part of a university course. The concept revolved around building a fictional surf school, with a full website presenting its services, team, and contact information.
 
